@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kristinna-eth
-- 👀 I’m interested in crypto and nfts
-- 🌱 I’m currently learning solidity
+- 👋 Hi, I’m @kristinna-eth;
+- 👀 I’m interested in crypto and nfts;
+- 🌱 I’m currently learning solidity;
 - 📫 How to reach me - kristinna.eth;
 
 <!---
